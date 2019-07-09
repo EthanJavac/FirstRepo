@@ -2,8 +2,11 @@ public class Test{
   
   public static void main(String[] args){
     
-    System.out.println("9090909090909090909090909090909090909");
-    System.out.pringln("--------end--------");
+    for(int i=0;i<999;i++){
+      System.out.println("9090909090909090909090909090909090909");
+      System.out.println("--------end--------");
+    }
+      
   }
   
 }
