@@ -6,6 +6,8 @@ public class Test{
       System.out.println("9090909090909090909090909090909090909");
       System.out.println("--------end--------");
     }
+    
+    System.out.println("0000000000000000");
       
   }
   
